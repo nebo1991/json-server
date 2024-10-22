@@ -1,40 +1,92 @@
-{
-    "books": [
-      {
-        "id": 5,
-        "name": "J.K. Rowling",
-        "title": "Harry Potter and the Sorcerer's Stone",
-        "description": "A young boy discovers he is a wizard and attends a magical school, where he uncovers a dark secret.",
-        "pages": 309
-      },
-      {
-        "id": 1,
-        "name": "George Orwell",
-        "title": "1984",
-        "description": "A dystopian novel set in a totalitarian regime where the government watches everyone and controls thought.",
-        "pages": 328
-      },
-      {
-        "id": 2,
-        "name": "J.R.R. Tolkien",
-        "title": "The Hobbit",
-        "description": "A hobbit embarks on an unexpected journey to reclaim a lost kingdom from a fearsome dragon.",
-        "pages": 310
-      },
-      {
-        "id": 3,
-        "name": "F. Scott Fitzgerald",
-        "title": "The Great Gatsby",
-        "description": "A mysterious millionaire throws lavish parties in pursuit of an unrequited love during the Jazz Age.",
-        "pages": 180
-      },
-      {
-        "id": 4,
-        "name": "Harper Lee",
-        "title": "To Kill a Mockingbird",
-        "description": "A young girl navigates the challenges of race and justice in the American South during the 1930s.",
-        "pages": 281
-      }
-    ]
+[
+  {
+    "id": 5,
+    "name": "J.K. Rowling",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "description": "A young boy discovers he is a wizard and attends a magical school, where he uncovers a dark secret.",
+    "pages": 309,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg",
+    "price": 10.99
+  },
+  {
+    "id": 1,
+    "name": "George Orwell",
+    "title": "1984",
+    "description": "A dystopian novel set in a totalitarian regime where the government watches everyone and controls thought.",
+    "pages": 328,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0zfL.jpg",
+    "price": 9.99
+  },
+  {
+    "id": 2,
+    "name": "J.R.R. Tolkien",
+    "title": "The Hobbit",
+    "description": "A hobbit embarks on an unexpected journey to reclaim a lost kingdom from a fearsome dragon.",
+    "pages": 310,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+    "price": 12.49
+  },
+  {
+    "id": 3,
+    "name": "F. Scott Fitzgerald",
+    "title": "The Great Gatsby",
+    "description": "A mysterious millionaire throws lavish parties in pursuit of an unrequited love during the Jazz Age.",
+    "pages": 180,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg",
+    "price": 8.99
+  },
+  {
+    "id": 4,
+    "name": "Harper Lee",
+    "title": "To Kill a Mockingbird",
+    "description": "A young girl navigates the challenges of race and justice in the American South during the 1930s.",
+    "pages": 281,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/81Ox45lyG3L.jpg",
+    "price": 7.99
+  },
+  {
+    "id": 6,
+    "name": "Herman Melville",
+    "title": "Moby-Dick",
+    "description": "The quest of Captain Ahab to hunt down the elusive white whale, Moby-Dick, aboard the whaling ship Pequod.",
+    "pages": 585,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/81PRvCZJynL.jpg",
+    "price": 11.5
+  },
+  {
+    "id": 7,
+    "name": "Jane Austen",
+    "title": "Pride and Prejudice",
+    "description": "A story about the complexities of love, class, and misunderstandings as Elizabeth Bennet navigates life and relationships.",
+    "pages": 279,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+    "price": 6.99
+  },
+  {
+    "id": 8,
+    "name": "Mary Shelley",
+    "title": "Frankenstein",
+    "description": "A scientist creates a sentient creature in an unorthodox experiment, leading to tragic consequences.",
+    "pages": 280,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/81rUKZ4UfwL.jpg",
+    "price": 7.5
+  },
+  {
+    "id": 9,
+    "name": "Leo Tolstoy",
+    "title": "War and Peace",
+    "description": "A vast narrative exploring Russian society during the Napoleonic Wars, focusing on five families.",
+    "pages": 1225,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/71RV7P+p3mL.jpg",
+    "price": 13.99
+  },
+  {
+    "id": 10,
+    "name": "Emily Brontë",
+    "title": "Wuthering Heights",
+    "description": "A dark and passionate tale of the intense love between Catherine Earnshaw and Heathcliff, set on the Yorkshire moors.",
+    "pages": 416,
+    "img_url": "https://images-na.ssl-images-amazon.com/images/I/91KlyHl-qzL.jpg",
+    "price": 8.49
   }
-  
+]
