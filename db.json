@@ -7,7 +7,19 @@
       "description": "A young boy discovers he is a wizard and attends a magical school, where he uncovers a dark secret.",
       "pages": 309,
       "img_url": "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg",
-      "price": 10.99
+      "price": 10.99,
+      "reviews": [
+        {
+          "name": "Alice",
+          "rating": 5,
+          "comment": "An enchanting and magical start to a legendary series!"
+        },
+        {
+          "name": "Bob",
+          "rating": 4,
+          "comment": "A wonderful introduction to the world of magic, though it starts a bit slow."
+        }
+      ]
     },
     {
       "id": 1,
@@ -16,7 +28,19 @@
       "description": "A dystopian novel set in a totalitarian regime where the government watches everyone and controls thought.",
       "pages": 328,
       "img_url": "https://m.media-amazon.com/images/I/81BExVLr8sL._SY522_.jpg",
-      "price": 9.99
+      "price": 9.99,
+      "reviews": [
+        {
+          "name": "John",
+          "rating": 5,
+          "comment": "A chilling warning about the dangers of totalitarianism."
+        },
+        {
+          "name": "Sarah",
+          "rating": 4,
+          "comment": "Profound and thought-provoking, but at times a bit heavy."
+        }
+      ]
     },
     {
       "id": 2,
@@ -25,7 +49,19 @@
       "description": "A hobbit embarks on an unexpected journey to reclaim a lost kingdom from a fearsome dragon.",
       "pages": 310,
       "img_url": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
-      "price": 12.49
+      "price": 12.49,
+      "reviews": [
+        {
+          "name": "Emma",
+          "rating": 5,
+          "comment": "A timeless classic full of adventure and magic!"
+        },
+        {
+          "name": "James",
+          "rating": 4,
+          "comment": "A bit slow in parts, but overall a captivating journey."
+        }
+      ]
     },
     {
       "id": 3,
@@ -34,7 +70,19 @@
       "description": "A mysterious millionaire throws lavish parties in pursuit of an unrequited love during the Jazz Age.",
       "pages": 180,
       "img_url": "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg",
-      "price": 8.99
+      "price": 8.99,
+      "reviews": [
+        {
+          "name": "Sophie",
+          "rating": 5,
+          "comment": "A poignant critique of the American Dream."
+        },
+        {
+          "name": "Henry",
+          "rating": 3,
+          "comment": "Beautiful writing, but the plot didn’t resonate with me."
+        }
+      ]
     },
     {
       "id": 4,
@@ -43,7 +91,19 @@
       "description": "A young girl navigates the challenges of race and justice in the American South during the 1930s.",
       "pages": 281,
       "img_url": "https://images2.medimops.eu/product/5ee5ee/M00446310786-large.jpg",
-      "price": 7.99
+      "price": 7.99,
+      "reviews": [
+        {
+          "name": "David",
+          "rating": 5,
+          "comment": "A profound and moving exploration of justice and morality."
+        },
+        {
+          "name": "Grace",
+          "rating": 4,
+          "comment": "A great story, though some parts felt a bit slow."
+        }
+      ]
     },
     {
       "id": 6,
@@ -52,7 +112,19 @@
       "description": "The quest of Captain Ahab to hunt down the elusive white whale, Moby-Dick, aboard the whaling ship Pequod.",
       "pages": 585,
       "img_url": "https://m.media-amazon.com/images/I/51Sw2-CuT3L._SY445_SX342_.jpg",
-      "price": 11.5
+      "price": 11.5,
+      "reviews": [
+        {
+          "name": "Mark",
+          "rating": 5,
+          "comment": "An epic tale of obsession and revenge. A must-read classic!"
+        },
+        {
+          "name": "Linda",
+          "rating": 3,
+          "comment": "Powerful themes, but it's quite a challenging read."
+        }
+      ]
     },
     {
       "id": 7,
@@ -61,7 +133,19 @@
       "description": "A story about the complexities of love, class, and misunderstandings as Elizabeth Bennet navigates life and relationships.",
       "pages": 279,
       "img_url": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
-      "price": 6.99
+      "price": 6.99,
+      "reviews": [
+        {
+          "name": "Amelia",
+          "rating": 5,
+          "comment": "A delightful read with sharp wit and romance!"
+        },
+        {
+          "name": "George",
+          "rating": 4,
+          "comment": "Beautifully written, but not my usual genre."
+        }
+      ]
     },
     {
       "id": 8,
@@ -70,7 +154,19 @@
       "description": "A scientist creates a sentient creature in an unorthodox experiment, leading to tragic consequences.",
       "pages": 280,
       "img_url": "https://m.media-amazon.com/images/I/41eZwEyOgNL._SY445_SX342_.jpg",
-      "price": 7.5
+      "price": 7.5,
+      "reviews": [
+        {
+          "name": "Edward",
+          "rating": 5,
+          "comment": "A thought-provoking tale about humanity and creation."
+        },
+        {
+          "name": "Charlotte",
+          "rating": 4,
+          "comment": "A fascinating story, though some parts felt a bit dated."
+        }
+      ]
     },
     {
       "id": 9,
@@ -79,7 +175,19 @@
       "description": "A vast narrative exploring Russian society during the Napoleonic Wars, focusing on five families.",
       "pages": 1225,
       "img_url": "https://images.thalia.media/00/-/31dc77f7d61b49fe9e7cffc585526fff/war-and-peace-gebundene-ausgabe-leo-tolstoy-englisch.jpeg",
-      "price": 13.99
+      "price": 13.99,
+      "reviews": [
+        {
+          "name": "Olivia",
+          "rating": 5,
+          "comment": "A masterpiece of literature that captures the human experience."
+        },
+        {
+          "name": "Daniel",
+          "rating": 4,
+          "comment": "An incredible story, but the length can be overwhelming."
+        }
+      ]
     },
     {
       "id": 10,
@@ -88,7 +196,19 @@
       "description": "A dark and passionate tale of the intense love between Catherine Earnshaw and Heathcliff, set on the Yorkshire moors.",
       "pages": 416,
       "img_url": "https://m.media-amazon.com/images/I/51rnEW42-EL._SY445_SX342_.jpg",
-      "price": 9.49
+      "price": 9.49,
+      "reviews": [
+        {
+          "name": "Sophia",
+          "rating": 5,
+          "comment": "A hauntingly beautiful and emotional story."
+        },
+        {
+          "name": "Oliver",
+          "rating": 3,
+          "comment": "Dark and intense, but sometimes hard to follow."
+        }
+      ]
     },
     {
       "id": 11,
@@ -97,7 +217,19 @@
       "description": "The story of a young boy's adventures along the Mississippi River as he seeks freedom.",
       "pages": 366,
       "img_url": "https://media2.hugendubel.de/shop/coverscans/168/16896129_9780141199009_xl.jpg",
-      "price": 9.99
+      "price": 9.99,
+      "reviews": [
+        {
+          "name": "Lucas",
+          "rating": 5,
+          "comment": "A fun and adventurous read with great characters."
+        },
+        {
+          "name": "Mia",
+          "rating": 4,
+          "comment": "A bit dated in language, but still an enjoyable classic."
+        }
+      ]
     },
     {
       "id": 12,
@@ -106,7 +238,19 @@
       "description": "The multi-generational story of the Buendía family in the fictional town of Macondo.",
       "pages": 417,
       "img_url": "https://m.media-amazon.com/images/I/61+09EWO5tL._SY445_SX342_.jpg",
-      "price": 12.99
+      "price": 12.99,
+      "reviews": [
+        {
+          "name": "Chloe",
+          "rating": 5,
+          "comment": "A magical and captivating story that spans generations."
+        },
+        {
+          "name": "Noah",
+          "rating": 4,
+          "comment": "The magical realism can be confusing, but it’s an unforgettable read."
+        }
+      ]
     },
     {
       "id": 13,
@@ -115,7 +259,19 @@
       "description": "The story of the rise and fall of Okonkwo, a leader in the Igbo community in Nigeria.",
       "pages": 209,
       "img_url": "https://m.media-amazon.com/images/I/517YVL36FML._SY445_SX342_.jpg",
-      "price": 8.99
+      "price": 8.99,
+      "reviews": [
+        {
+          "name": "Ava",
+          "rating": 5,
+          "comment": "A powerful and moving story of colonialism and its impact."
+        },
+        {
+          "name": "Ethan",
+          "rating": 4,
+          "comment": "A classic, but some parts were hard to follow."
+        }
+      ]
     },
     {
       "id": 14,
@@ -124,7 +280,19 @@
       "description": "A novel that explores the lives of American expatriates on the French Riviera during the 1920s.",
       "pages": 368,
       "img_url": "https://m.media-amazon.com/images/I/51TsYMUYGtL._SY445_SX342_.jpg",
-      "price": 10.99
+      "price": 10.99,
+      "reviews": [
+        {
+          "name": "Isabella",
+          "rating": 5,
+          "comment": "A beautifully written novel about love, loss, and the passage of time."
+        },
+        {
+          "name": "William",
+          "rating": 3,
+          "comment": "Interesting characters, but the pacing was slow."
+        }
+      ]
     },
     {
       "id": 15,
@@ -133,7 +301,19 @@
       "description": "A tale of friendship and redemption set against the backdrop of a changing Afghanistan.",
       "pages": 371,
       "img_url": "https://m.media-amazon.com/images/I/41S8gmlSDxL._SY445_SX342_.jpg",
-      "price": 9.99
+      "price": 9.99,
+      "reviews": [
+        {
+          "name": "Lily",
+          "rating": 5,
+          "comment": "A heart-wrenching story of friendship, guilt, and redemption."
+        },
+        {
+          "name": "Benjamin",
+          "rating": 4,
+          "comment": "Emotionally powerful, though some parts were predictable."
+        }
+      ]
     },
     {
       "id": 16,
@@ -142,7 +322,19 @@
       "description": "Four siblings discover a magical world and help to save it from the White Witch.",
       "pages": 208,
       "img_url": "https://m.media-amazon.com/images/I/51jqx81ji-L._SY445_SX342_.jpg",
-      "price": 8.49
+      "price": 8.49,
+      "reviews": [
+        {
+          "name": "Ella",
+          "rating": 5,
+          "comment": "A magical adventure that has captivated readers for generations!"
+        },
+        {
+          "name": "Liam",
+          "rating": 4,
+          "comment": "A delightful fantasy, though the writing is a bit dated."
+        }
+      ]
     },
     {
       "id": 17,
@@ -151,7 +343,19 @@
       "description": "A teenage boy's experiences in New York City after being expelled from prep school.",
       "pages": 277,
       "img_url": "https://m.media-amazon.com/images/I/518dVCGFuhL._SY445_SX342_.jpg",
-      "price": 9.49
+      "price": 9.49,
+      "reviews": [
+        {
+          "name": "Emily",
+          "rating": 5,
+          "comment": "A brilliant portrayal of teenage angst and alienation."
+        },
+        {
+          "name": "Jack",
+          "rating": 4,
+          "comment": "A raw and honest look at adolescence, but not for everyone."
+        }
+      ]
     },
     {
       "id": 18,
@@ -160,7 +364,19 @@
       "description": "The sequel to 'To Kill a Mockingbird,' exploring themes of racism and personal growth.",
       "pages": 288,
       "img_url": "https://m.media-amazon.com/images/I/514otrlo7rL._SY445_SX342_.jpg",
-      "price": 12.99
+      "price": 12.99,
+      "reviews": [
+        {
+          "name": "Hannah",
+          "rating": 4,
+          "comment": "An insightful follow-up to 'To Kill a Mockingbird,' though not as impactful."
+        },
+        {
+          "name": "Logan",
+          "rating": 3,
+          "comment": "A good sequel, but lacks the charm of the original."
+        }
+      ]
     },
     {
       "id": 19,
@@ -169,7 +385,19 @@
       "description": "A young hobbit named Frodo Baggins embarks on a perilous journey to destroy the One Ring.",
       "pages": 423,
       "img_url": "https://m.media-amazon.com/images/I/31e1rLilB3L._SY445_SX342_.jpg",
-      "price": 14.99
+      "price": 14.99,
+      "reviews": [
+        {
+          "name": "Evelyn",
+          "rating": 5,
+          "comment": "A captivating start to an epic fantasy adventure."
+        },
+        {
+          "name": "Mason",
+          "rating": 4,
+          "comment": "A bit slow at times, but a wonderful story overall."
+        }
+      ]
     },
     {
       "id": 20,
@@ -178,7 +406,19 @@
       "description": "In a dystopian future, women are subjugated and used for reproductive purposes.",
       "pages": 311,
       "img_url": "https://m.media-amazon.com/images/I/31ACSAlQ1XL._SY445_SX342_.jpg",
-      "price": 11.99
+      "price": 11.99,
+      "reviews": [
+        {
+          "name": "Zoey",
+          "rating": 5,
+          "comment": "A terrifying and thought-provoking look at a dystopian future."
+        },
+        {
+          "name": "Aiden",
+          "rating": 4,
+          "comment": "A powerful story, but it can be unsettling at times."
+        }
+      ]
     }
   ]
 }
